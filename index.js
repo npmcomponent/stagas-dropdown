@@ -11,10 +11,10 @@
  * Module dependencies.
  */
 
-var o = require('jquery')
-var inherit = require('inherit')
-var viewport = require('viewport')
-var Menu = require('menu')
+var o = require('component-jquery')
+var inherit = require('component-inherit')
+var viewport = require('stagas-viewport')
+var Menu = require('stagas-menu')
 
 /**
  * Exports.

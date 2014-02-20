@@ -1,0 +1,17 @@
+{
+  "name": "stagas-dropdown",
+  "description": "a minimal dropdown with UX details",
+  "version": "0.0.2",
+  "keywords": [
+    "ui",
+    "ux",
+    "dropdown"
+  ],
+  "dependencies": {
+    "component-jquery": "git://github.com/npmcomponent/component-jquery.git",
+    "component-inherit": "git://github.com/npmcomponent/component-inherit.git",
+    "stagas-viewport": "git://github.com/npmcomponent/stagas-viewport.git",
+    "stagas-menu": "git://github.com/npmcomponent/stagas-menu.git"
+  },
+  "license": "MIT"
+}
